@@ -1,1 +1,2 @@
 # LoadingView
+自定义LoadView 和对MBProgressHUd进行二次封装。避免因MBProgressHUd的版本变化而改动大量代码！
